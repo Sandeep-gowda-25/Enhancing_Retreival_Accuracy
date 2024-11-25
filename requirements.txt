@@ -1,0 +1,5 @@
+openai
+pinecone-client
+python-dotenv
+Langchain==0.0.225
+pypdf
